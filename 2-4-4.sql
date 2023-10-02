@@ -1,0 +1,1 @@
+select * into student_bk from student
